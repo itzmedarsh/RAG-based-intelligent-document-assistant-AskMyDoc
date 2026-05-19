@@ -1,0 +1,27 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+.my-title h1 {
+    color: beige;
+    font-family: 'poppins';
+    font-size: 50px;
+    padding-bottom: 10px;
+    letter-spacing: 1px;
+    text-align: center;
+}
+
+.my-subheader {
+    color: beige;
+    font-family: 'poppins';
+    font-size: 30px;
+    text-align: center;
+}
+
+[data-testid="stFileUploaderDropzone"] {
+    color: white;
+    font-family: 'poppins' !important;
+    border: 5px solid white;
+}
+
+.stApp {
+    background-color: rgb(23, 179, 176);
+}
